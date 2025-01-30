@@ -95,17 +95,17 @@ const Testimonials = () => {
         description: `Supporting Pakistani businesses in expanding their digital presence and optimizing e-commerce strategies for growth.`,
       },
       {
-        title: "America",
+        title: "United States",
         image: "/usa.png", // Replace with your image path
         description: `Helping businesses thrive in the dynamic USA market with data-driven strategies and digital marketing expertise.`,
       },
       {
-        title: "London",
+        title: "United Kingdom",
         image: "/uk.png", // Replace with your image path
         description: `Empowering UK-based businesses with tailored e-commerce solutions and innovative digital marketing campaigns.`,
       },
       {
-        title: "Dubai",
+        title: "United Arab Emirates",
         image: "/uae.png", // Replace with your image path
         description: `Driving success for brands in the UAE with cutting-edge e-commerce strategies and targeted digital marketing.`,
       },
