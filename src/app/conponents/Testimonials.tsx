@@ -90,22 +90,22 @@ import Image from "next/image";
 const Testimonials = () => {
     const cards = [
       {
-        title: "Digital Marketing",
+        title: "Pakistan",
         image: "/pak.png", // Replace with your image path
         description: `Supporting Pakistani businesses in expanding their digital presence and optimizing e-commerce strategies for growth.`,
       },
       {
-        title: "Social Media Strategy",
+        title: "America",
         image: "/usa.png", // Replace with your image path
         description: `Helping businesses thrive in the dynamic USA market with data-driven strategies and digital marketing expertise.`,
       },
       {
-        title: "E-commerce Solutions",
+        title: "London",
         image: "/uk.png", // Replace with your image path
         description: `Empowering UK-based businesses with tailored e-commerce solutions and innovative digital marketing campaigns.`,
       },
       {
-        title: "Brand Development",
+        title: "Dubai",
         image: "/uae.png", // Replace with your image path
         description: `Driving success for brands in the UAE with cutting-edge e-commerce strategies and targeted digital marketing.`,
       },

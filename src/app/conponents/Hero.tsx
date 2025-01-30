@@ -63,7 +63,7 @@
 
 "use client";
 import Image from 'next/image';
-import { BsFacebook, BsLinkedin, BsTwitter } from 'react-icons/bs';
+import { BsFacebook, BsInstagram, BsLinkedin, BsTwitter } from 'react-icons/bs';
 import Link from 'next/link';
 
 export default function Hero() {
@@ -83,13 +83,13 @@ export default function Hero() {
                     
                     {/* Social Media Buttons */}
                     <div className="flex justify-center md:justify-start gap-6 mb-6">
-                        <Link href="https://www.linkedin.com/in/areeb-ahmed-151775216">
+                        <Link href="http://www.linkedin.com/in/areeb-ahmed-151775216">
                             <BsLinkedin className="text-3xl hover:text-blue-600 transition-transform duration-300 hover:scale-110" />
                         </Link>
                         <Link href="/">
-                            <BsTwitter className="text-3xl hover:text-blue-400 transition-transform duration-300 hover:scale-110" />
+                            <BsInstagram className="text-3xl hover:text-blue-400 transition-transform duration-300 hover:scale-110" />
                         </Link>
-                        <Link href="/">
+                        <Link href="https://web.facebook.com/profile.php?id=100081354250858">
                             <BsFacebook className="text-3xl hover:text-blue-700 transition-transform duration-300 hover:scale-110" />
                         </Link>
                     </div>
